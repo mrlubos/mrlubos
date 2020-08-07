@@ -1,16 +1,34 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/mrlubos/mrlubos/master/banner.jpg" alt="banner that says Lubos - software, business, design alongside a wireframe model of Tesla Model X">
 
-<!--
-**mrlubos/mrlubos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex; justify-content: space-between;">
+  <h1>Hi, I'm Lubos. 👋</h1>
 
-Here are some ideas to get you started:
+  <span>
+    <a href="https://lmen.us">Website</a> •
+    <a href="https://twitter.com/mrlubos">Twitter</a> •
+    <a href="https://linkedin.com/in/mrlubos">LinkedIn</a>
+  </span>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Focus.
+
+I create and breathe for exceptional user experiences. The projects I work on display a high level of craftsmanship, potential for a long-lasting social impact on scale, and have founders with great learning velocity. I prefer areas most people find boring, e.g. B2B, numbers, or hard technology.
+
+### Moonshots.
+
+Projects I aspire to work on in the future.
+
+- Biotechnology.
+- Public infrastructure.
+- Sustainable energy.
+- Tools for professionals.
+  
+### Words.
+
+- [One Thousand and One Lights.](https://lmen.us/articles/2017-10-10-one-thousand-and-one-lights/)
+
+### Angel.
+
+You can view my fantasy portfolio [here](https://lmen.us/angel).
