@@ -1,14 +1,12 @@
 <img src="https://raw.githubusercontent.com/mrlubos/mrlubos/master/banner.jpg" alt="banner that says Lubos - software, business, design alongside a wireframe model of Tesla Model X">
 
-<div style="display: flex; justify-content: space-between;">
-  <h1>Hi, I'm Lubos. 👋</h1>
+<h1 align="center">Hi, I'm Lubos. 👋</h1>
 
-  <span>
+<p align="center">
     <a href="https://lmen.us">Website</a> •
     <a href="https://twitter.com/mrlubos">Twitter</a> •
     <a href="https://linkedin.com/in/mrlubos">LinkedIn</a>
-  </span>
-</div>
+</p>
 
 ---
 
