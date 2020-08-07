@@ -8,8 +8,6 @@
     <a href="https://linkedin.com/in/mrlubos">LinkedIn</a>
 </p>
 
----
-
 ## Focus.
 
 I create and breathe for exceptional user experiences. The projects I work on display a high level of craftsmanship, potential for a long-lasting social impact on scale, and have founders with great learning velocity. I prefer areas most people find boring, e.g. B2B, numbers, or hard technology.
