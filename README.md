@@ -17,6 +17,8 @@ I create and breathe for exceptional user experiences. The projects I work on di
 Projects I aspire to work on in the future.
 
 - Biotechnology.
+- Climate tech.
+- Nomad citizenship.
 - Public infrastructure.
 - Sustainable energy.
 - Tools for professionals.
@@ -27,4 +29,4 @@ Projects I aspire to work on in the future.
 
 ### Angel.
 
-You can view my fantasy portfolio [here](https://lmen.us/angel).
+You can view my portfolio [here](https://lmen.us/angel).
