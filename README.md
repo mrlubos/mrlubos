@@ -25,7 +25,7 @@ Projects I aspire to work on in the future.
   
 ### Words.
 
-- [One Thousand and One Lights.](https://lmen.us/articles/2017-10-10-one-thousand-and-one-lights/)
+- [One Thousand and One Lights.](https://lmen.us/journal/2017-10-10-one-thousand-and-one-lights/)
 
 ### Portfolio.
 
