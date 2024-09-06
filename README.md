@@ -27,6 +27,6 @@ Projects I aspire to work on in the future.
 
 - [One Thousand and One Lights.](https://lmen.us/articles/2017-10-10-one-thousand-and-one-lights/)
 
-### Angel.
+### Portfolio.
 
-You can view my portfolio [here](https://lmen.us/angel).
+You can view my portfolio [here](https://lmen.us/portfolio).
