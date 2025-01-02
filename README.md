@@ -10,7 +10,14 @@
 
 ## Focus.
 
-I create and breathe for exceptional user experiences. The projects I work on display a high level of craftsmanship, potential for a long-lasting social impact on scale, and have founders with great learning velocity. I prefer areas most people find boring, e.g. B2B, numbers, or hard technology.
+I create and breathe for exceptional user experiences. The projects I work on display a high level of craftsmanship, potential for a long-lasting social impact on scale, and have great founders. I follow my own objectives instead of chasing the latest hype.
+
+### Now.
+
+Projects I am currently working on.
+
+- [Banff](https://www.banffadvisors.com/)
+- [Hey API](https://heyapi.dev/)
 
 ### Moonshots.
 
@@ -21,12 +28,3 @@ Projects I aspire to work on in the future.
 - Nomad citizenship.
 - Public infrastructure.
 - Sustainable energy.
-- Tools for professionals.
-  
-### Words.
-
-- [One Thousand and One Lights.](https://lmen.us/journal/2017-10-10-one-thousand-and-one-lights/)
-
-### Portfolio.
-
-You can view my portfolio [here](https://lmen.us/portfolio).
