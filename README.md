@@ -4,8 +4,8 @@
 
 <p align="center">
     <a href="https://lmen.us">Website</a> •
-    <a href="https://twitter.com/mrlubos">Twitter</a> •
-    <a href="https://linkedin.com/in/mrlubos">LinkedIn</a>
+    <a href="https://linkedin.com/in/mrlubos">LinkedIn</a> •
+    <a href="https://bsky.app/profile/lmen.us">Bluesky</a>
 </p>
 
 ## Focus.
