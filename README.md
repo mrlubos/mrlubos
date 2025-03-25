@@ -10,21 +10,12 @@
 
 ## Focus.
 
-I create and breathe for exceptional user experiences. The projects I work on display a high level of craftsmanship, potential for a long-lasting social impact on scale, and have great founders. I follow my own objectives instead of chasing the latest hype.
+I create and breathe for exceptional user experiences. Following my own objectives instead of chasing the latest hype.
 
 ### Now.
 
-Projects I am currently working on.
-
-- [Banff](https://www.banffadvisors.com/)
-- [Hey API](https://heyapi.dev/)
+I'm currently working on [Banff](https://www.banffadvisors.com/) and [Hey API](https://heyapi.dev/).
 
 ### Moonshots.
 
-Projects I aspire to work on in the future.
-
-- Biotechnology.
-- Climate tech.
-- Nomad citizenship.
-- Public infrastructure.
-- Sustainable energy.
+One day I aspire to work on biotech, climate tech, nomad citizenship, public infrastructure, and sustainable energy.
