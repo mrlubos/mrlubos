@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/mrlubos/mrlubos/master/banner.jpg" alt="banner that says Lubos - software, business, design alongside a wireframe model of Tesla Model X">
-
 <h1 align="center">Hi, I'm Lubos. 👋</h1>
 
 <p align="center">
