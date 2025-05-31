@@ -1,1 +1,1 @@
-I'm the Hey API guy.
+I'm the [Hey API](https://heyapi.dev/) guy.
